@@ -75,6 +75,6 @@ pip install -r requirements.txt
 - **91.84% Accuracy**, **0.9287 F1-score**, **0.98 AUC**
 - Recommended threshold **0.4** for best precision-recall balance
 
-## License
-MIT License © 2025 Manasi Pandit
+![roc_curve](https://github.com/user-attachments/assets/6a9a4d75-4d4f-4892-b2f3-95d1785ba8d4)
+
 

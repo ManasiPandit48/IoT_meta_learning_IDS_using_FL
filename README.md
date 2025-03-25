@@ -1,7 +1,7 @@
 # IoT Meta-Learning IDS
 
 ## Overview
-The **iot_meta_learning_ids-1** project develops an Intrusion Detection System (IDS) for IoT networks using **meta-learning** (MAML) and **federated learning** (FL). The model, a **hybrid Fish Swarm ConvNet**, is trained on the **UNSW-NB15 dataset** for binary classification (normal vs. attack traffic). The approach ensures privacy-preserving, adaptive, and scalable intrusion detection.
+The **IoT Meta-Learning IDS** project develops an Intrusion Detection System (IDS) for IoT networks using **meta-learning** (MAML) and **federated learning** (FL). The model, a **hybrid Fish Swarm ConvNet**, is trained on the **UNSW-NB15 dataset** for binary classification (normal vs. attack traffic). The approach ensures privacy-preserving, adaptive, and scalable intrusion detection.
 
 ## Features
 - **Federated Learning**: Clients train locally, preserving data privacy.

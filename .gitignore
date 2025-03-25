@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Logs
+logs/
+*.log
+
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

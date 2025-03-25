@@ -1,0 +1,9 @@
+# configs/paths.yaml
+datasets:
+  unsw_nb15: data/raw/UNSW-NB15/
+processed:
+  tasks: data/processed/tasks.npy
+models:
+  meta_model: models/meta_models/maml_model.weights.h5
+results:
+  plots: results/plots/

@@ -37,3 +37,6 @@ def receive_data(socket):
     except (OSError, ValueError, struct.error, ConnectionAbortedError) as e:
         print(f"Error receiving data: {e}")
         return None
+
+# Note: This file handles socket communication on port 5000 (set in server.py).
+# Prometheus metrics are served on ports 8000-8003, avoiding conflict with this port.
